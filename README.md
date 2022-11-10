@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flogg1
-- 👀 I’m interested in RPA (UiPath) and Pyhton Development
+- 👀 I’m interested in RPA (UiPath) and Python Development
 - 🌱 I’m currently learning Python and vb.NET
 - 📫 You can reach me on flogg1337@gmail.com
 
